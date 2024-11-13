@@ -1,4 +1,4 @@
-###### Lift and Shift Application Workload (Lift vprofile app and shift it on AWS Cloud) ######
+# Lift and Shift Application Workload (Lift vprofile app and shift it on AWS Cloud) #
 
 #  -- About the project :
 
