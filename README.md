@@ -1,6 +1,6 @@
-###### lift_shift_app_aws_project ######
+###### Lift and Shift Application Workload (Lift vprofile app and shift it on AWS Cloud) ######
 
-# -- About the project :
+ -- About the project :
 
 # Multi Tier Web Application Stack
 # Host & Run on AWS Cloud for Production
